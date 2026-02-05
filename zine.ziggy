@@ -1,0 +1,11 @@
+Site {
+    .title = "Reasearch on how to submit",
+    .host_url = "https://ozzyozbourne.github.io",
+    .url_path_prefix = "pace-ai",
+    .content_dir_path = "cvpr_ai_art_pace",
+    .layouts_dir_path = "layouts",
+    .assets_dir_path = "assets",
+    .static_assets = [
+        "Temml.woff2",
+    ],
+}
