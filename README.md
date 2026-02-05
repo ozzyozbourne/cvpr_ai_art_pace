@@ -13,4 +13,4 @@
 [zine-badge]: https://img.shields.io/badge/built%20with-Zine-blue
 [zine-link]: https://zine-ssg.io
 [license]: https://img.shields.io/github/license/ozzyozbourne/cvpr_ai_art_pace
-[license-link]: https://github.com/ozzyozbourne/cvpr_ai_art_pace/blob/main/LICENSE
+[license-link]: https://github.com/ozzyozbourne/cvpr_ai_art_pace/blob/master/LICENSE
