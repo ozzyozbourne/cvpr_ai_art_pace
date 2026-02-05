@@ -1,5 +1,5 @@
-# [cvpr_ai_art_pace](ozzyozbourne.github.io/cvpr_ai_art_pace)
+# [Research on CVPR AI ART](ozzyozbourne.github.io/cvpr_ai_art_pace/)
 
-My best effort to demistify how to submit to CVPR AI Art, Hope this helps
+Hope this helps
 
 [Powered by ZINE](https://zine-ssg.io)
