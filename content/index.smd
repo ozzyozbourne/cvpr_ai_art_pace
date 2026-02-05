@@ -8,6 +8,8 @@
 
 # 2025 AI art work
 
+## Not finished yet need to explore more !!
+
 #### Interactive 
 
 This section of art include and actual physical object that user can touch or manipulate to 
@@ -16,9 +18,25 @@ see the art ie the art interacts with the user in some way super cool !!
 1. [Diffusion TV](https://sihwapark.com/Diffusion-TV)
 2. [The Flower](https://thecvf-art.com/project/the-flower/)
 3. [Green Diffusion](https://thecvf-art.com/project/green-diffusion/)
+4. [Superradiance](https://thecvf-art.com/project/superradiance/)
 
 #### Visual
 
 This section of art need only a screen show since its a vedio
 
 1. [Atlas of Perception](https://got.drib.net/atlas/)
+2. [Damien Roach](https://www.instagram.com/reels/DDuM95sIO6l/)
+3. [Underpass Sky Voxelation](https://thecvf-art.com/project/e-s-johnston-underpass-sky-voxelation-2025/)
+4. [Reflections on Mechanical Creativity](https://thecvf-art.com/project/reflections-on-mechanical-creativity/)
+
+
+### Best Candidates so far 
+
+Model collapse, ie train ai on the is data recursively, like we have lora 
+for indian patterns get 100 image 
+then train it again on that then 
+generate 100 image, 
+apply the process again and again this great since fine tune is not computer heavy and 
+doesnt need alot of images as well 
+
+1. [Habsburg AI Portrait Studies](https://thecvf-art.com/project/habsburg-ai-portrait-studies/)
