@@ -1,6 +1,6 @@
 # [Research on CVPR AI ART](https://ozzyozbourne.github.io/cvpr_ai_art_pace/)
 
-![Deploy Status](https://ozzyozbourne.github.io/cvpr_ai_art_pace/actions/workflows/gh_deploy.yml/badge.svg)
+![Deploy Status](https://github.com/ozzyozbourne/cvpr_ai_art_pace/actions/workflows/gh_deploy.yml/badge.svg)
 
 ## Hope this helps
 
