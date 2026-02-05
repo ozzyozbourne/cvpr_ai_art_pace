@@ -6,11 +6,11 @@
 .draft = false,
 --- 
 
-# 2025 AI art work submissions worthy of mention
+## 2025 AI art work submissions worthy of mention
 
-## Not finished yet need to explore more !!
+### Not finished yet need to explore more !!
 
-#### Interactive 
+#### Interactive AI Art Pieces
 
 This section of art include and actual physical object that user can touch or manipulate to 
 see the art ie the art interacts with the user in some way super cool !!
@@ -21,7 +21,7 @@ see the art ie the art interacts with the user in some way super cool !!
 4. [Superradiance](https://thecvf-art.com/project/superradiance/)
 5. [Reflections on Mechanical Creativity](https://thecvf-art.com/project/reflections-on-mechanical-creativity/)
 
-#### Visual
+#### Visual AI Art Pieces
 
 This section of art need only a screen show since its a vedio
 
@@ -32,11 +32,5 @@ This section of art need only a screen show since its a vedio
 
 ### Best Candidates so far 
 
-Model collapse, ie train ai on the its data recursively (feed the output as input repeatedly), like we have lora 
-for indian patterns get 100 image 
-then train it again on that then 
-generate 100 image, 
-apply the process again and again this great since fine tune is not computer heavy and 
-doesnt need alot of images as well 
+1. **[Habsburg AI Portrait Studies](https://thecvf-art.com/project/habsburg-ai-portrait-studies/)** => Model collapse—train AI recursively on its own output. Great for LoRA since fine-tuning is lightweight and doesn't need many images.
 
-1. [Habsburg AI Portrait Studies](https://thecvf-art.com/project/habsburg-ai-portrait-studies/)
