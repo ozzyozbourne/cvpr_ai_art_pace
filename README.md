@@ -1,6 +1,6 @@
 # [Research on CVPR AI ART](https://ozzyozbourne.github.io/cvpr_ai_art_pace/)
 
-| [![GitHub Pages][gh-badge]][gh-link]    | ![[License][license]][license-link]                         |
+| [![GitHub Pages][gh-badge]][gh-link]    | [![License][license]][license-link]                         |
 | :-------------------------------------- | :------------------------------------------ |
 | [![Deploy Status][de-badge]][de-status] | [![Built with Zine][zine-badge]][zine-link] |
 
