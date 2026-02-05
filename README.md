@@ -1,4 +1,4 @@
-# [Research on CVPR AI ART](ozzyozbourne.github.io/cvpr_ai_art_pace/)
+# [Research on CVPR AI ART](https://ozzyozbourne.github.io/cvpr_ai_art_pace/)
 
 Hope this helps
 
