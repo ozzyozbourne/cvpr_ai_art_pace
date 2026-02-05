@@ -32,7 +32,7 @@ This section of art need only a screen show since its a vedio
 
 ### Best Candidates so far 
 
-Model collapse, ie train ai on the is data recursively, like we have lora 
+Model collapse, ie train ai on the its data recursively (feed the output as input repeatedly), like we have lora 
 for indian patterns get 100 image 
 then train it again on that then 
 generate 100 image, 
