@@ -2,7 +2,7 @@
 
 | [![GitHub Pages][gh-badge]][gh-link]     | ![License][license]                         |
 | :--------------------------------------- | :------------------------------------------ |
-| [![Deploy Status][de-status]][de-status] | [![Built with Zine][zine-badge]][zine-link] |
+| [![Deploy Status][de-badge]][de-status] | [![Built with Zine][zine-badge]][zine-link] |
 
 
 
