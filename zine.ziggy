@@ -1,5 +1,5 @@
 Site {
-    .title = "My Research Note on CVPR AI ART",
+    .title = "Research Notes on AI ART",
     .host_url = "https://ozzyozbourne.github.io",
     .url_path_prefix = "cvpr_ai_art_pace",
     .content_dir_path = "content",
