@@ -1,4 +1,4 @@
-# cvpr_ai_art_pace
+# [cvpr_ai_art_pace](ozzyozbourne.github.io/cvpr_ai_art_pace)
 
 My best effort to demistify how to submit to CVPR AI Art, Hope this helps
 
