@@ -1,5 +1,5 @@
 ---
-.title = "Pace AI labs",
+.title = "Pace AI lab",
 .date = @date("1990-01-01T00:00:00"),
 .author = "Osaid Khan",
 .layout = "index.shtml",
